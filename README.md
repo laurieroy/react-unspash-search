@@ -1,3 +1,6 @@
+# Pics
+This is a code along to display a search bar, display results in a list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
