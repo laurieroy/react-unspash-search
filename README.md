@@ -1,5 +1,6 @@
 # Pics
-This is a code along to display a search bar, display results in a list
+
+This is a code along to search for stock photos. It will display a search bar, fetch results (using axios) from the unsplash API and display results in a list.
 
 # Getting Started with Create React App
 
