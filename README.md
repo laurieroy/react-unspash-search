@@ -2,6 +2,10 @@
 
 This is a code along to search for stock photos. It will display a search bar, fetch results (using axios) from the unsplash API and display results in a list.
 
+The results are displayed in a grid. There are several areas that could be tweaked to improve this project.
+
+![screenshot](public/screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
