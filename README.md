@@ -1,8 +1,8 @@
 # Pics
 
-This is a code along to search for stock photos. It will display a search bar, fetch results (using axios) from the unsplash API and display results in a list.
+This is a code along to search for stock photos. It will display a search bar, fetch results (using axios) from the unsplash API and display results initially in a list.
 
-The results are displayed in a grid. There are several areas that could be tweaked to improve this project.
+The results are refactored to display in a grid. There are several areas that could be tweaked to improve this project.
 
 ![screenshot](public/screenshot.png)
 
